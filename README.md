@@ -32,7 +32,7 @@
     <pre><code>5
 -1 2 1 -2 3</code></pre>
     <h3>输出样例 #2</h3>
-    <pre><code>-1 1 2 -2 3</code></pre>
+<pre><code>-1 1 2 -2 3</code></pre>
     <h2>说明</h2>
     <div>n<=10000，-1000<=ai<=1000，相同绝对值先出现的排前面。</div>
     <div>题库:<button title="back"><a href="https://zhouningyuan1234.github.io/tiku/"><span class="purple">返回</span></a></button></div>
