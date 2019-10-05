@@ -4,7 +4,7 @@
     </head>
 
 <body>
-  <center><h1>绝对值排序</h1></center>
+  <h1><center>绝对值排序</center></h1>
   <h2>题目背景</h2>
   <div>小明因为这个排序死了。</div>
     <h2>题目描述</h2>
