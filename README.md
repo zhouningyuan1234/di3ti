@@ -1,6 +1,13 @@
 <html>
   <head>
     <title>disanti</title>
+		<style type="text/css">
+		<!--
+			.blue{color:#0000FF}
+			.purple{color: #FF00FF}
+			.宋体{font-family:"宋体"}
+		-->
+		</style>
   </head>
   <body>
     <h1><center>绝对值排序</center></h1>
